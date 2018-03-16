@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tutors Schedule</string>
+
+    <string name="chosen">"Chosen: "</string>
+    <string name="Hialeah">"Hialeah"</string>
+    <string name="North">"North"</string>
+    <string name="Kendall">"Kendall"</string>
+    <string name="InterAmerican">"InterAmerican"</string>
+    <string name="West">"West"</string>
+    <string name="Wolfson">"Wolfson"</string>
+    <string name="Homestead">"Homestead"</string>
+    <string name="nothing_clicked">"onRadioButtonClicked: Nothing clicked."</string>
+    <string name="action_settings">"You selected Settings"</string>
+    <string name="action_tutor">You selected Tutors.</string>
+    <string name="action_favorites">You selected Favorites.</string>
+    <string name="action_campus">You selected Campus.</string>
+    <string name="tutor1">Vannesa Velez: C for Enginners, C++, Java</string>
+    <string name="tutor2">Dora Giraldo: Accounting and Bussines</string>
+    <string name="activity2_name">Tutors</string>
+    <string name="choose_tutor">Choose a Tutor</string>
+    <string name="Campus">Campus</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Settings">Settings</string>
+    <string name="Entec">Entec</string>
+    <string name="Math">Math</string>
+    <string name="Business">Business</string>
+</resources>
