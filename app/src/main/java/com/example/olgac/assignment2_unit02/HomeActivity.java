@@ -11,7 +11,8 @@ import android.widget.RadioButton;
 import android.widget.Toast;
 
 
-public class HomeActivity extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity
+{
 
     private static final String TAG = HomeActivity.class.getSimpleName();
 
@@ -131,4 +132,5 @@ public class HomeActivity extends AppCompatActivity {
     public void displayToast(String message){
         Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
     }
+
 }

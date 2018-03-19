@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.olgac.assignment1_unit1.HomeActivity">
+    tools:context="com.example.olgac.assignment2_unit02.HomeActivity">
 
     <TextView
         android:id="@+id/text_Order_Campus"
